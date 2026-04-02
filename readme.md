@@ -15,6 +15,9 @@ docker-compose up --build
 ```
 App runs at `http://localhost:8080`.
 
+
+but but first test the application then only run the test cases as it deletes the records from the db 
+
 ## Testing
 
  See /Test-application.md for full testing instructions and concurrency testing guide.
